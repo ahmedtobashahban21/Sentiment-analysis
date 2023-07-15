@@ -5,6 +5,12 @@ Movies reviews
 
 
 
+
+in the sentiment analysis task, we focus on the content of the sentence which means we ignore { URL, stop_words, special_characters} 
+that's all is a preprocessing operation.
+
+
+
 for the first notebook 'IMDB_sentiment_analysis' :
 in this notebook, I used the logistic Regression model and Naive Bayes 
 in the second one "fine-tune LLM for sentiment analysis" :
