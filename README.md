@@ -1,5 +1,9 @@
 # Sentiment-analysis
 Movies reviews
+** IMDB Dataset of 50K Movie Reviews **
+-download data from here ( https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews )
+
+
 
 for the first notebook 'IMDB_sentiment_analysis' :
 in this notebook, I used the logistic Regression model and Naive Bayes 
